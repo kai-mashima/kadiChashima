@@ -8,8 +8,6 @@ import {
 } from 'react-router-dom';
 import browserHistory from 'react-router';
 import Button from 'react-bootstrap/lib/Button';
-import $ from 'jquery';
-import _ from 'lodash';
 import Home from './components/Home.jsx';
 import PanelHome from './components/PanelHome.jsx';
 import {notes} from './data/notes.js';
