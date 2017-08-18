@@ -351,4 +351,112 @@ module.exports.notes = [
     note: `I wanna go to a beach with you! PLEASE everyone will be like wow they're hot I mean that's just an added bonus I wanna go cause fun`,
     response:  `LOL I bet babe. We would be pushing thirsty people away from us.`
   },
+  {
+    note: `Compare this summer to last summer, Wow.`,
+    response:  `HAHA you sooo right. Glad it worked out the way it did!`
+  },
+  {
+    note: `TUGS!`,
+    response:  `YOU GET ME`
+  },
+  {
+    note: `SNUGS!`,
+    response:  `YOU REALLY GET ME`
+  },
+  {
+    note: `We've mentioned this summer a lot over the months always 'if we're still together' and hey, look where we are`,
+    response:  `Ah i couldn't be happier that this is where we are!`
+  },
+  {
+    note: `Ok this is the last one for me, I know the oder doesn't matter but i feel like I need to conclude so I love you so much you are my favorite guy and ahhhhhhhhhhhhh`,
+    response:  `I ready this one in the last like 10 or so. What are the changes!`
+  },
+  {
+    note: `I am so freakin devoted to you`,
+    response:  `Babe I feel it and I love you for being devoted`
+  },
+  {
+    note: `You're like, incredible my dude`,
+    response:  `MY DUDE, you so are too`
+  },
+  {
+    note: `Imagine if we lived together and went to workand came home to each other and ate dinner and watched movies and went on adventures and worked out on weekends`,
+    response:  `I feel like I have dreamed that many times`
+  },
+  {
+    note: `I truly don't know what to do for gifts for you cause you buy the things you want`,
+    response:  `Hahaha yea sorry. My dad is the same way. I haven't gotten him a gift in years cause he just buys shit when he thinks of it. Also the stuff I want would be far too expensive to be an okay thing to buy me`
+  },
+  {
+    note: `We've been together for like almost a year (depending on when you read this)`,
+    response:  `AH it is really coming up v soon`
+  },
+  {
+    note: `This is the 5th one I wrote, and I have no idea how I'm gonna write 110 more`,
+    response:  `Idk how you did this. Did it take 1241421341 years?`
+  },
+  {
+    note: `I feel so safe with you and it's amazing`,
+    response:  `I am so happy you feel safe. That is the goal.`
+  },
+  {
+    note: `Hey I'm sorry I didn't let you take more pictures of us #ragrets`,
+    response:  `I am just glad you came to realize pictures aren't the worst to have`
+  },
+  {
+    note: `You are so smart go code like a genius (if you have hack reactor today)`,
+    response:  `Aw thanks babe. I don't have hack today, I am coding this today tho soooo same`
+  },
+  {
+    note: `Being a human is freakin crazy man`,
+    response:  `Yeas, this is a fax machine that prints fax machines`
+  },
+  {
+    note: `It is so much fun to be thrown around by you and fight in the good way and I'm gonna start one of those fights later today cause I'm smiling thinkging about it. I'm like a weird guy`,
+    response:  `AHHH I am so glad you like it as much as I do`
+  },
+  {
+    note: `I really appreciate how good you are with consent, you have no idea how much that means to me`,
+    response:  `I am really glad I am able to be good at it. I want you to feel so much safes.`
+  },
+  {
+    note: `I'm so so so so so so so grateful for you, thank you for everything`,
+    response:  `babe you know this is a two way thing. The gratefulness goes all directions`
+  },
+  {
+    note: `It helps a lot if you just keep picturing our reunion!!`,
+    response:  `OMG this is so true. Last night I was smiling like a complete idiot thinking about first seeing you and how I don't know how to kiss anymore`
+  },
+  {
+    note: `Whatever 4 months isn't even that long`,
+    response:  `Nah it's fucking forever`
+  },
+  {
+    note: `LOVE ME`,
+    response:  `I DO`
+  },
+  {
+    note: `Other than Paloma you're the onlt person who I ALWAYS want to be hanging out with`,
+    response:  `AH AH AH`
+  },
+  {
+    note: `I'm not saying we should have kids, but they'd be so cute and smart and athelti and I love them.`,
+    response:  `This is really the most facts. They would be the best human beans`
+  },
+  {
+    note: `'And then he smiles and nothing else makes sense' @you`,
+    response:  `I have no idea what this means but it sounds nice.`
+  },
+  {
+    note: `Like if we spent the rest of our lives together, I'd be happy`,
+    response:  `Sign me up for that`
+  },
+  {
+    note: `I made enough of these until Sept 1st so who knows if I made too much too little, anyways I'm very in love with you`,
+    response:  `Ah I am in love with you too and I finished them off Aug 18th because I see you tmrw and I don't have any more nights to open them and I also need to finish this thing.`
+  },
+  {
+    note: `For the day we see each other: AHH AHH AHH AHH AHH AHH AH holy shit Hahahaha see you later OMG <3`,
+    response:  `AHHHH you are too cute thank you so much for making these it really helped. `
+  },
 ];
